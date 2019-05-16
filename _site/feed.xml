@@ -1,5 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-HK"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" hreflang="zh-HK" /><updated>2019-05-17T03:37:01+08:00</updated><id>http://localhost:4000/blog/</id><title type="html">Zerokun736 的遊樂園</title><subtitle>Welcome :)
-</subtitle><author><name>Zerokun736</name><email>zerokun736@gmail.com</email></author><entry><title type="html">Welcome</title><link href="http://localhost:4000/blog/2018/07/01/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2018-07-01T00:00:00+08:00</published><updated>2018-07-01T00:00:00+08:00</updated><id>http://localhost:4000/blog/2018/07/01/welcome</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/01/welcome.html">&lt;p&gt;If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-HK"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" hreflang="zh-HK" /><updated>2019-05-17T05:12:36+08:00</updated><id>http://localhost:4000/blog/</id><title type="html">Zerokun736 的遊樂園</title><subtitle>Welcome :)
+</subtitle><author><name>Zerokun736</name><email>zerokun736@gmail.com</email></author><entry><title type="html">Test - Article with Lots of Images</title><link href="http://localhost:4000/blog/2019/05/17/testing.html" rel="alternate" type="text/html" title="Test - Article with Lots of Images" /><published>2019-05-17T00:00:00+08:00</published><updated>2019-05-17T00:00:00+08:00</updated><id>http://localhost:4000/blog/2019/05/17/testing</id><content type="html" xml:base="http://localhost:4000/blog/2019/05/17/testing.html">&lt;h2 id=&quot;text-theme---cover&quot;&gt;TeXt Theme - Cover&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg&quot; alt=&quot;TeXt Theme&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;text-theme---layouts&quot;&gt;TeXt Theme - Layouts&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png&quot; alt=&quot;TeXt Theme Layouts&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;skin-default&quot;&gt;Skin: Default&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg&quot; alt=&quot;default&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;skin-dark&quot;&gt;Skin: Dark&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg&quot; alt=&quot;dark&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;skin-forest&quot;&gt;Skin: Forest&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg&quot; alt=&quot;forest&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;skin-ocean&quot;&gt;Skin: Ocean&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg&quot; alt=&quot;ocean&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;skin-chocolate&quot;&gt;Skin: Chocolate&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg&quot; alt=&quot;chocolate&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;skin-orange&quot;&gt;Skin: Orange&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg&quot; alt=&quot;orange&quot; /&gt;&lt;/p&gt;</content><author><name>Zerokun736</name><email>zerokun736@gmail.com</email></author><category term="Test" /><summary type="html">TeXt Theme - Cover</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/blog/2018/07/01/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2018-07-01T00:00:00+08:00</published><updated>2018-07-01T00:00:00+08:00</updated><id>http://localhost:4000/blog/2018/07/01/welcome</id><content type="html" xml:base="http://localhost:4000/blog/2018/07/01/welcome.html">&lt;p&gt;If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:&lt;/p&gt;
 
 &lt;p&gt;You may want to &lt;a href=&quot;https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration&quot;&gt;config the site&lt;/a&gt; or &lt;a href=&quot;https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts&quot;&gt;writing a post&lt;/a&gt; next. Please feel free to &lt;a href=&quot;https://github.com/kitian616/jekyll-TeXt-theme/issues&quot;&gt;create an issue&lt;/a&gt; or &lt;a href=&quot;mailto:kitian616@outlook.com&quot;&gt;send me an email&lt;/a&gt; if you have any questions.&lt;/p&gt;
 

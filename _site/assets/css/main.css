@@ -429,13 +429,8 @@ pre.lineno {
   .d-print-none, .extensions {
     display: none !important; } }
 
-.horizontal-rules::before {
-  display: block;
-  font-size: 1.9rem;
-  color: #619dbb;
-  text-align: center;
-  letter-spacing: 1.5rem;
-  content: "..."; }
+.horizontal-rules {
+  border-bottom: 1px dashed #619dbb; }
 
 .text--light, .card__image > .overlay--light, .hero--light, .header--light {
   color: #3e758f; }
@@ -3559,14 +3554,8 @@ a > .item__header, a.item__header, .item__header > a {
     border: 0 solid #dfe3e2;
     border-bottom-width: 1px; }
   .article__content hr {
-    border: none; }
-    .article__content hr::before {
-      display: block;
-      font-size: 1.9rem;
-      color: #619dbb;
-      text-align: center;
-      letter-spacing: 1.5rem;
-      content: "..."; }
+    border: none;
+    border-bottom: 1px dashed #619dbb; }
   .article__content blockquote {
     padding-left: 1rem;
     font-size: 0.85rem;
